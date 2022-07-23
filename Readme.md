@@ -17,7 +17,14 @@
 ## 🧑‍💻 - Installation
 ```
 git clone https://github.com/DEMON1A/GmailBruterV2
+
+pip install termcolor
+
 cd GmailBruterV2
+
+python3 GmailBrute13.py
+
+Enjoy The Script
 ```
 ## 👇 - CLI Command
 ```
