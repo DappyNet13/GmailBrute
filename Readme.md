@@ -18,7 +18,7 @@
 ```
 git clone https://github.com/DappyNet13/GmailBrute
 
-pip install termcolor
+[pip install termcolor](https://pypi.org/project/termcolor/)
 
 cd GmailBrute
 
