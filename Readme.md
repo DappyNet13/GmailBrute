@@ -20,7 +20,7 @@ git clone https://github.com/DappyNet13/GmailBrute
 
 pip install termcolor
 
-cd GmailBruterV2
+cd GmailBrute
 
 python3 GmailBrute13.py
 
