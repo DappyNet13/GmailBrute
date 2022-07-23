@@ -1,4 +1,4 @@
-## 👋 GmailBruterV5📧
+## 👋 - GmailBruter Advanced
  - **Simple Tool Written In Python3 To Perform Limited Brute-Force Attacks On Gmail Accounts.**
 
 
