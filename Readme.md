@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 - Installation
 ```
-git clone https://github.com/DEMON1A/GmailBruterV2
+git clone https://github.com/DappyNet13/GmailBrute
 
 pip install termcolor
 
