@@ -22,6 +22,8 @@ pip install termcolor
 
 cd GmailBrute
 
+ls GmailBrute
+
 python3 GmailBrute13.py
 
 Enjoy The Script
