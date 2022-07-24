@@ -40,7 +40,7 @@ def StartBruteAccount(Passlist,account,SMTPServer,Count,_Count,Time):
 
 					SMTPServer = StartSMTPServiceForGmail()
 				else:
-					print("\rsedang meretas: {0}".format(Password + "   ") , end="")
+					print("\rmendapatkan akun: {0}".format(Password + "   ") , end="")
 					sys.stdout.flush()
 			except Exception as e:
 				if "please run connect() first" in str(e):
